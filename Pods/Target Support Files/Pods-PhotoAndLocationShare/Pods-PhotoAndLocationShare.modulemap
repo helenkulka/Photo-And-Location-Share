@@ -1,0 +1,6 @@
+framework module Pods_PhotoAndLocationShare {
+  umbrella header "Pods-PhotoAndLocationShare-umbrella.h"
+
+  export *
+  module * { export * }
+}
